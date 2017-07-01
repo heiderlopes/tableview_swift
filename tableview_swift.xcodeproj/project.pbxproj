@@ -297,6 +297,7 @@
 				AC66D55E1F082543006FCD6B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

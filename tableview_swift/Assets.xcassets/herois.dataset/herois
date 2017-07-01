@@ -1,0 +1,235 @@
+[{
+		"nome_traduzido": "Homem Aranha",
+		"nome_original": "Spiderman",
+		"descricao": "Bravo, forte e rápido, Homem-Aranha se balança pelas ruas e atira as suas teias para pegar os vilões.",
+		"imagens": [{
+				"nome_imagem": "homem_aranha.png"
+			},
+			{
+				"nome_imagem": "homem_aranha_preto.png"
+			},
+			{
+				"nome_imagem": "homem_aranha_escalarte.png"
+			},
+			{
+				"nome_imagem": "homem_aranha_millenium.png"
+			}
+		]
+	},
+	{
+		"nome_traduzido": "Homem Formiga",
+		"nome_original": "Ant Man",
+		"descricao": "Ele pode encolher para tamanhos minúsculos usando suas partículas Pym e também conversar com insetos usando seu capacete especial! O Homem-Formiga não tem problemas com pragas!",
+		"imagens": [{
+			"nome_imagem": "antman.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Viúva Negra",
+		"nome_original": "Black Widow",
+		"descricao": "A Viúva Negra é uma super espiã russa, ex bailarina usa pulseiras que dão uma explosão elétrica chamada mordida da Viúva .",
+		"imagens": [{
+			"nome_imagem": "viuva_negra.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Demolidor",
+		"nome_original": "Daredevil",
+		"descricao": "Ficou cego em um acidente, Demolidor usa seu senso de radar incrível para ver o mundo a seu redor. Ele é um homem sem medo!",
+		"imagens": [{
+				"nome_imagem": "demolidor.png"
+			},
+			{
+				"nome_imagem": "demolidor_classico.png"
+			}
+		]
+	},
+	{
+		"nome_traduzido": "Deadpool",
+		"nome_original": "Deadpool",
+		"descricao": "Deadpool vai te dizer exatamente como ele vai usar suas habilidades de ninja para salvar o dia, mas depois vai ser difícil fazer ele ficar calado!  ",
+		"imagens": [{
+			"nome_imagem": "deadpool.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Doutor Estranho",
+		"nome_original": "Doctor Strange",
+		"descricao": "Ele vai usar suas artes místicas e feitiços poderosos para defender a Terra, o Dr. Estranho é o feiticeiro supremo!  ",
+		"imagens": [{
+			"nome_imagem": "doutor_estranho.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Gambit",
+		"nome_original": "Gambit",
+		"descricao": "Segurem suas cartas porque Gambit vai mandar todos os inimigos voando com suas explosões de energia antes que você possa piscar! ",
+		"imagens": [{
+			"nome_imagem": "gambit.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Nick Fury",
+		"nome_original": "Nick Fury",
+		"descricao": "Não há ninguém na Cidade dos Heróis com mais  inteligencia militar do que Nick Fury. Ainda bem que ele está do nosso lado! ",
+		"imagens": [{
+			"nome_imagem": "nick_fury.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Reptil",
+		"nome_original": "Reptil",
+		"descricao": "Reptil assume as características de qualquer dinossauro, e as usa para proteger a Cidade dos Heróis! ",
+		"imagens": [{
+			"nome_imagem": "reptil.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Vampira",
+		"nome_original": "Rogue",
+		"descricao": "Vampira pode pegar emprestado as habilidades de alguém quando tocá neles, mas ela é poderosa o suficiente para dar conta dos vilões sozinha!",
+		"imagens": [{
+			"nome_imagem": "vampira.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Garota Aranha",
+		"nome_original": "Spider Girl",
+		"descricao": "Ninguém sabe a verdadeira identidade dessa misteriosa garota que se parece com o Homem-Aranha, mas todos sabem que ela é incrível!",
+		"imagens": [{
+			"nome_imagem": "garota_aranha.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Mulher Aranha",
+		"nome_original": "Spider Woman",
+		"descricao": "Com suas explosões de veneno, super força e super agilidade os bandidos vão pensar duas vezes antes de lutar contra a Mulher Aranha.",
+		"imagens": [{
+			"nome_imagem": "spider_woman"
+		}]
+	},
+	{
+		"nome_traduzido": "Homem de Ferro",
+		"nome_original": "Iron Man",
+		"descricao": "Um gênio que inventa aparelhos para cada situação, o Homem de Ferro voa em sua poderosa armadura que ele fez para si mesmo.",
+		"imagens": [{
+			"nome_imagem": "homem_ferro_invisivel.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Coisa",
+		"nome_original": "Thing",
+		"descricao": "",
+		"imagens": [{
+			"nome_imagem": "coisa_terno.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Vespa",
+		"nome_original": "wasp",
+		"descricao": "Se ela não está colocando ordem nos bandidos ela está projetando novos equipamentos impressionantes, Vespa tem grandes talentos para o seu corpo minúsculo.",
+		"imagens": [{
+			"nome_imagem": "vespa.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Wolverine",
+		"nome_original": "Wolverine",
+		"descricao": "Com uma atitude de durão, o esqueleto de adamantium inquebrável, e garras retráteis, Wolverine é o melhor no que faz.",
+		"imagens": [{
+			"nome_imagem": "wolverine.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Surfista Prateado",
+		"nome_original": "Silver Surfer",
+		"descricao": "Este alienígena impressionante veio á Terra em uma placa de prata. Agora ele exerce seu poder no céu da Cidade dos Heróis.",
+		"imagens": [{
+				"nome_imagem": "surfista_prateado.png"
+			},
+			{
+				"nome_imagem": "surfista_negro.png"
+			}
+		]
+	},
+	{
+		"nome_traduzido": "Nova",
+		"nome_original": "Nova",
+		"descricao": "Ele pode canalizar a sua energia quase infinita da Força Nova, mas ele não deixa o seu poder subir a cabeça.",
+		"imagens": [{
+			"nome_imagem": "nova.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Miss Marvel",
+		"nome_original": "Miss Marvel",
+		"descricao": "Com um sorriso deslumbrante, e com sua força sobre humana a bem sucedida Ms. Marvel canaliza energia transformando elas em fortes explosões.",
+		"imagens": [{
+			"nome_imagem": "miss_marvel.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Jean Grey",
+		"nome_original": "Jean Grey",
+		"descricao": "Com poderes psíquicos, Jean Grey sempre sabe o que você está pensando e pode levantar objetos com o poder da sua mente!",
+		"imagens": [{
+			"nome_imagem": "jean_grey.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Hulk",
+		"nome_original": "Hulk",
+		"descricao": "Graças a radiação gama, quanto mais irritado mais forte o Hulk fica. Então, quando o Hulk fica de cabeça quente o Hulk Esmaga!",
+		"imagens": [{
+			"nome_imagem": "hulk.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Falcão",
+		"nome_original": "Falcon",
+		"descricao": "Com o seu companheiro de penas Asa Vermelha, Falcão voa acima da Cidade dos Heróis com suas asas de falcão.",
+		"imagens": [{
+			"nome_imagem": "falcao.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Emma Frost",
+		"nome_original": "Emma Frost",
+		"descricao": "Vestida toda de branco e com o corpo que pode se transformar em diamante, Emma Frost tem um temperamento quente e uma personalidade legal.",
+		"imagens": [{
+			"nome_imagem": "emma_frost.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Ciclope",
+		"nome_original": "Cyclops",
+		"descricao": "Ciclope usa um visor de rubi de quartzo para que ele possa controlar a energia que sai dos seus olhos, mas ele comanda os X-Men com a visão clara.   ",
+		"imagens": [{
+			"nome_imagem": "ciclope.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Thor",
+		"nome_original": "Thor",
+		"descricao": "Seu capacete com asas é apenas para mostrar, e ele usa seu martelo encantado, Mjolnir para voar.",
+		"imagens": [{
+			"nome_imagem": "thor.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Capitão América",
+		"nome_original": "Captain America",
+		"descricao": "O máximo da força humana, velocidade e patriotismo. Capitão America lança o seu poderoso escudo para defender as suas estrelas e listras.",
+		"imagens": [{
+			"nome_imagem": "capitao_america.png"
+		}]
+	},
+	{
+		"nome_traduzido": "Capitão Bucky",
+		"nome_original": "Captain Bucky",
+		"descricao": "James Bucky Barnes pega o escudo quando o Capitão America precisa de férias, mas ele tambem é um o ótimo atirador!",
+		"imagens": [{
+			"nome_imagem": "capitao_bucky.png"
+		}]
+	}
+]
